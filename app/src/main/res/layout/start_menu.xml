@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="120sp"
+            android:layout_height="45sp"
+            android:text="@string/transports"
+            android:id="@+id/Transport_btn"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+    <Button
+        android:layout_width="120sp"
+        android:layout_height="45sp"
+        android:text="@string/countries"
+        android:id="@+id/Countries_btn"
+        android:layout_weight="1" />
+    </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+    <Button
+        android:layout_width="120sp"
+        android:layout_height="45sp"
+        android:text="@string/fruits"
+        android:id="@+id/Fruits_btn"
+        android:layout_weight="1" />
+        </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+    <Button
+        android:layout_width="120sp"
+        android:layout_height="45sp"
+        android:text="@string/animals"
+        android:id="@+id/Animals_btn"
+        android:layout_weight="1" />
+            </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center">
+    <Button
+        android:layout_width="120sp"
+        android:layout_height="45sp"
+        android:text="@string/about"
+        android:id="@+id/about_btn"
+        android:layout_weight="1" />
+                </LinearLayout>
+</LinearLayout>

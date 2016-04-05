@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Study_Jams_Task2</string>
+    <string name="confirm">Confirm</string>
+    <string name="menu">Menu</string>
+    <string name="transports">Transports</string>
+    <string name="countries">Countries</string>
+    <string name="fruits">Fruits</string>
+    <string name="animals">Animals</string>
+    <string name="about">About</string>
+    <string name="wrong_message">Wrong! try again :)</string>
+    <string name="correct_message">Nice One!</string>
+    <string name="finish_massage">You complete all task! Congratulations!</string>
+    <string name="about_text">Developed for child training. By Lego</string>
+</resources>
