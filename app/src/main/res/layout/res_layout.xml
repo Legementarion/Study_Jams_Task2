@@ -40,6 +40,7 @@
             android:layout_height="wrap_content"
             android:text="@string/confirm"
             android:id="@+id/Confirm_btn"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:textColor="@color/confirm" />
     </LinearLayout>
 </LinearLayout>
